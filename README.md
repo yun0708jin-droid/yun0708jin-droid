@@ -1,16 +1,25 @@
-## Hi there 👋
+# ![Mint Balloon](https://img.shields.io/badge/윤서진의_홈페이지에_오신_걸_환영합니다!-7FFFD4?style=for-the-badge&logo=balloon&logoColor=white)
 
-<!--
-**yun0708jin-droid/yun0708jin-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 자기소개
+성장을 꿈꾸는 **윤서진**입니다. 
+현재 깃허브를 통해 저만의 학습 기록과 프로젝트를 정리하고 있습니다.
 
-Here are some ideas to get you started:
+현) 자유전공학부
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+전) 고등학교 학생회 총무부
+
+---
+
+### 학생 정보
+| 항목 | 내용 |
+| :--- | :--- |
+| **이름** | 윤서진 (Yun Seo-jin) |
+| **학번** | 202680001 |
+| **소속** | 자유전공학부 |
+
+---
+
+### 목표
+- [ ] 다양한 전공 기초 습득하기
+- [ ] 다양한 자격증 따기
+- [ ] 해외 여행 많이 가기
